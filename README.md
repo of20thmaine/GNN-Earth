@@ -37,7 +37,7 @@ that is using the site will make the user feel as though they are plugged in to 
 * **CSS Validator:** [jigsaw.w3.org/css-validator](jigsaw.w3.org/css-validator)
 
 
-###Tooling:
+### Tooling:
 * Apache 2.4.34
 * MariaDB 10.1.36
 * PHP 7.2.10
